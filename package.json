@@ -36,8 +36,7 @@
     "tap-diff": "^0.1.1"
   },
   "engines": {
-    "node": "5.11",
-    "npm": "^3.6"
+    "node": "^6"
   },
   "keywords": [
     "input-plugin",
